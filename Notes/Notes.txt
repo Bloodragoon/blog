@@ -7,6 +7,13 @@ Setting up H keypress for screenshots in-game
   https://chiaroscorner.wordpress.com/2018/02/20/how-to-take-a-high-res-screenshot-in-play-mode-ue4/
 
 
+Press H
+Execute Console Command
+HighResShot 4
+
+execute console Command
+DisableAllScreenMessages
+
   one image example
   <a class="example-image-link" href="img/a.jpg" data-lightbox="example-1"><img class="img/a.jpg" src="img/a.jpg" alt="image-1" /></a>
 

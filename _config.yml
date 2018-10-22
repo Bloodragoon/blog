@@ -5,3 +5,6 @@ keywords: Game Dev, Portfolio, Game Design
 author: Stuart Wilson
 baseurl: "portfolio" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+
+sass:
+    style: compressed
