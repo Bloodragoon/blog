@@ -13,6 +13,11 @@ The second video game as part of the Udemy Course, a wave based survival arena s
 </p>
 
 <p style="text-align: center;"><i>
+<a class="example-image-link" href="https://vimeo.com/318697115"><img class="example-image" src="img/Castle_Arena/Video_Icon.jpg" alt="" height="370"/></a>
+Gameplay Trailer
+</i></p>
+
+<p style="text-align: center;"><i>
 <a class="example-image-link" href="img/Castle_Arena/Castle_Arena_1.jpg" data-lightbox="the_Castle_Arena_set" data-title="Defining the workspace"><img class="example-image" src="img/Castle_Arena/Castle_Arena_1.jpg" alt="" height="370"/></a>
 Final scene view 1
 </i></p>
