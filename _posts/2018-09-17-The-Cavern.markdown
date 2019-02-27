@@ -9,7 +9,7 @@ permalink: "The Cavern"
 ---
 
 <p style="font-size:100%;">
-The Cavern is a project I created with two goals in mind; solidifying my currents knowledge with using Unreal Engine 4 and building good consistent work habits. The assets used are from Epic Games 'Soul: Cave' market place asset pack.
+The Cavern is a project I created with two goals in mind; solidifying my current knowledge with using Unreal Engine 4 and building good consistent work habits. The assets used are from Epic Games 'Soul: Cave' market place asset pack.
 </p>
 
 <p style="text-align: center;"><i>
