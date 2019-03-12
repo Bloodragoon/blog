@@ -3,7 +3,7 @@ title:  "Pinball Roulette"
 subtitle: "Video Game"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
-image: "img/Pinball_Roulette/Pinball_Roulette_Post_Icon.jpg"
+image: "img/Pinball_Roulette/Pinball_Roulette_Post_Icon_2.jpg"
 date:   7th January 2019
 permalink: "Pinball_Roulette"
 ---
@@ -13,7 +13,8 @@ permalink: "Pinball_Roulette"
 My first completed game in Unreal Engine 4, a classic arcade pinball with a small roulette twist. A 'light wheel' spins every 30 seconds and determines a random event. The events are; inverted controls, multiple balls and a center stopper. This project was an extension on the Pinball project as part of the Udemy course by Christopher Murphy.
 </p>
 
-Check out and play the game for free at
+Check out and play the game for free at:
+<br />
 <br />
 <i>
 [bloodragoon.itch.io/pinballroulette](https://bloodragoon.itch.io/pinballroulette)
@@ -22,7 +23,7 @@ Check out and play the game for free at
 <br />
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="https://vimeo.com/309670547"><img class="example-image" src="img/Pinball_Roulette/Video_Icon.jpg" alt="" height="260"/></a>
+<a class="example-image-link" href="https://vimeo.com/309670547"><img class="example-image" src="img/Pinball_Roulette/Video_Icon_2.jpg" alt="" height="260"/></a>
 Gameplay Trailer
 </i></p>
 

@@ -3,7 +3,7 @@ title:  "The Cavern"
 subtitle: "Game Environment"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
-image: "img/The_Cavern/thecavern_post_icon.jpg"
+image: "img/The_Cavern/thecavern_post_icon_2.jpg"
 date:   "18th September 2018"
 permalink: "The Cavern"
 ---

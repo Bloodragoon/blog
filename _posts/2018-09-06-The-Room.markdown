@@ -3,7 +3,7 @@ title:  "The Room"
 subtitle: "Architecture Visualization"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
-image: "img/The_Room/theroom_post_icon.jpg"
+image: "img/The_Room/theroom_post_icon_2.jpg"
 date:   "8th September 2018"
 permalink: "The Room"
 ---

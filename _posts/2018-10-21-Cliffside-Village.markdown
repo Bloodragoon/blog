@@ -3,7 +3,7 @@ title:  "Cliffside Village"
 subtitle: "Game Environment"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
-image: "img/Cliffside_Village/Cliffside_Village_post_icon.jpg"
+image: "img/Cliffside_Village/Cliffside_Village_post_icon_2.jpg"
 date:   "21st October 2018"
 permalink: "Cliffside Village"
 ---

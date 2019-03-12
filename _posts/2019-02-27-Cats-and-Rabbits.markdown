@@ -3,7 +3,7 @@ title:  "Cats and Rabbits"
 subtitle: "C++ Console Command Video Game"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
-image: "img/Cats_and_Rabbits/Cats_And_Rabbits_Icon.PNG"
+image: "img/Cats_and_Rabbits/Cats_And_Rabbits_Icon_2.PNG"
 date:   27th February 2019
 permalink: "Cats and Rabbits"
 ---

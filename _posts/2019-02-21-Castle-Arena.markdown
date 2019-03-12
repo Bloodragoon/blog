@@ -3,7 +3,7 @@ title:  "Castle Arena"
 subtitle: "Video Game"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
-image: "img/Castle_Arena/Castle_Arena_post_icon.jpg"
+image: "img/Castle_Arena/Castle_Arena_post_icon_2.jpg"
 date:   21st February 2019
 permalink: "Castle Arena"
 ---
@@ -13,7 +13,7 @@ The second video game as part of the Udemy Course, a wave based survival arena s
 </p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="https://vimeo.com/318697115"><img class="example-image" src="img/Castle_Arena/Video_Icon.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="https://vimeo.com/318697115"><img class="example-image" src="img/Castle_Arena/Video_Icon_2.jpg" alt="" height="370"/></a>
 Gameplay Trailer
 </i></p>
 
