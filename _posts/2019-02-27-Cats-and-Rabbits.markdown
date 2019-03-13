@@ -8,25 +8,37 @@ date:   27th February 2019
 permalink: "Cats and Rabbits"
 ---
 <p style="font-size:100%;">
-My first video game project written in C++ using Visual Studio. A fun project to help ease into learning coding in C++ and a base point into to learning C++ in Unreal Engine 4. This was created as an adaptation of 'Bulls and Cows' project in the Udemy course by Ben Tristem and Sam Pattuzzi.
+Cats and Rabbits, my first video game project written in C++ using only Visual Studio. A fun standalone project to help ease me into learning C++ as well as design insight for console command video games.
 </p>
 
-<p style="text-align: center;"><i>
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_1.jpg" data-lightbox="cats_and_rabbits_set" data-title="Start Screen"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_1.jpg" alt="" height="345"/></a>
 Start Screen
 </i></p>
 
-<p style="text-align: center;"><i>
+<p><br />
+Cats and Rabbits is an adaptation of the pen and pencil 'Bulls and Cows' puzzle game. The object of the game is for the player to correctly guess the word the computer is holding on to within the set try limit. Each time the player makes a guess at the hidden word, the computer will output the number of Cats and Rabbits for the guess. Cats being the number of letters matching the hidden word in the correct positions and rabbits being the number of matching letters in invalid positions.
+</p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_2.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 1"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_2.jpg" alt="" height="345" /></a>
 Gameplay 1
 </i></p>
 
-<p style="text-align: center;"><i>
+<p><br />
+The game verifies users input in order to help the user submitting invalid guesses. Conditions such as; Guessed word matches hidden word length, ensuring the guessed word is an isogram, making sure only alphanumeric lowercase characters are entered and so forth.
+</p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_3.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 2"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_3.jpg" alt="" height="345" /></a>
 Gameplay 2
-</i></p>
+</i></p><br />
 
-<p style="text-align: center;"><i>
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_4.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 3"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_4.jpg" alt="" height="345" /></a>
 Gameplay 3
 </i></p>
+
+<p><br />
+Overall Cats and Rabbits is a quick simple game that helped me learn more about using C++ as well developing a better understanding of the origins of console command video games. The game could be improved with adding in new features such as; allowing the player to specify the hidden word length, expanding the hidden word dictionary, expanding allow numbers instead of words (or a combination of both).
+</p><br />
