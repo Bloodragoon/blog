@@ -3,7 +3,7 @@ title:  "Cats and Rabbits"
 subtitle: "C++ Console Command Video Game"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
-image: "img/Cats_and_Rabbits/Cats_And_Rabbits_Icon_2.PNG"
+image: "img/Cats_and_Rabbits/Cats_And_Rabbits_Icon.jpg"
 date:   27th February 2019
 permalink: "Cats and Rabbits"
 ---
@@ -12,21 +12,21 @@ My first video game project written in C++ using Visual Studio. A fun project to
 </p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_1.PNG" data-lightbox="cats_and_rabbits_set" data-title="Start Screen"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_1.PNG" alt="" height="345"/></a>
+<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_1.jpg" data-lightbox="cats_and_rabbits_set" data-title="Start Screen"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_1.jpg" alt="" height="345"/></a>
 Start Screen
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_2.PNG" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 1"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_2.PNG" alt="" height="345" /></a>
+<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_2.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 1"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_2.jpg" alt="" height="345" /></a>
 Gameplay 1
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_3.PNG" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 2"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_3.PNG" alt="" height="345" /></a>
+<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_3.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 2"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_3.jpg" alt="" height="345" /></a>
 Gameplay 2
 </i></p>
 
 <p style="text-align: center;"><i>
-<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_4.PNG" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 3"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_4.PNG" alt="" height="345" /></a>
+<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_4.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 3"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_4.jpg" alt="" height="345" /></a>
 Gameplay 3
 </i></p>
