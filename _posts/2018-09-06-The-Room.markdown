@@ -8,51 +8,91 @@ date:   "8th September 2018"
 permalink: "The Room"
 ---
 <p style="font-size:100%;">
-My first Unreal Engine 4 project, an architectural visualization of a living room space in a high rise apartment building.
-I created this project as part of a Udemy Course, instructed by Christopher Murphy. Scene assets are a mixture of course assets and Epic Games assets.
+My first Unreal Engine 4 project, an architectural visualization of a living room space in a high rise apartment building. My goals for this project was getting into grips with using Unreal Engine 4 and exploring creating environments. I created this project as part of a Udemy Course, instructed by Christopher Murphy. Scene assets are a mixture of course assets and Epic Games assets.
 </p>
 
-<p style="text-align: center;"><i>
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/The_Room/theroom_8.jpg" data-lightbox="the_room_set" data-title="Final scene preview"><img class="example-image" src="img/The_Room/theroom_8.jpg" alt="" height="245"/></a>
+Final scene preview
+</i></p>
+
+<p><br />
+I started out by defining the workspace for the scene. To do this I used BSP geometry for the walls and floors. Followed by adding in a few static meshes to help scope out the scale and proportions of the design.
+<p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_1.jpg" data-lightbox="the_room_set" data-title="Defining the workspace"><img class="example-image" src="img/The_Room/theroom_1.jpg" alt="" height="245"/></a>
 Defining the workspace
 </i></p>
 
-<p style="text-align: center;"><i>
+<p><br />
+At this point, it was clear I needed to start re-defining the room size to better accommodate the scale of the design. I also added in temporary lighting to help make working in the scene easier.
+<p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_2.jpg" data-lightbox="the_room_set" data-title="Re-defining the workspace"><img class="example-image" src="img/The_Room/theroom_2.jpg" alt="" height="245" /></a>
 Re-defining the workspace
 </i></p>
 
-<p style="text-align: center;"><i>
+<p><br />
+Now that the room was looking in better shape I began filling out the room with more detail. Adding more static meshes as well as adding materials to the BSP surfaces.
+<p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_3.jpg" data-lightbox="the_room_set" data-title="Fleshing out base static mesh details"><img class="example-image" src="img/The_Room/theroom_3.jpg" alt="" height="245" /></a>
 Fleshing out base static mesh details
 </i></p>
 
-<p style="text-align: center;"><i>
+<p><br />
+I was finding the design was looking and not feeling like a home, so I added in more details and imperfections (such as messy bookshelves and tables) to make it as if through someone lives in the space. Changing some of the surface materials and adding in baloney also helped improve the overall warmth to the room.
+<p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_4.jpg" data-lightbox="the_room_set" data-title="Filling in more scene details"><img class="example-image" src="img/The_Room/theroom_4.jpg" alt="" height="245" /></a>
 Filling in more scene details
 </i></p>
 
-<p style="text-align: center;"><i>
+<p><br />
+Something was missing that made the room still feel too clean. I decided to add in the illusion of an additional room to enhance the vision that this room belongs to an entire appartment. This became the final scene design before working on lighting.
+<p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_5.jpg" data-lightbox="the_room_set" data-title="Final pre-lighting scene view"><img class="example-image" src="img/The_Room/theroom_5.jpg" alt="" height="245" /></a>
 Final pre-lighting scene view
 </i></p>
 
-<p style="text-align: center;"><i>
+<p><br />
+Next was lighting, where I could finally remove temporary construction lights in for production lighting. The idea here was to enhance the ranchsliders sunlight as much as possible, making it a core feature of the design, but not too overpowering. Lighting is tricky and I continued to modify it throughout the project.
+<p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_6.jpg" data-lightbox="the_room_set" data-title="First detailed lighting pass"><img class="example-image" src="img/The_Room/theroom_6.jpg" alt="" height="245" /></a>
 First detailed lighting pass
 </i></p>
 
-<p style="text-align: center;"><i>
+<p><br />
+Following lighting was post-processing. To me, this part feels like 'glueing' all the individual elements together - the whole is greater than the sum of its parts. I had a lot of fun with post-processing, but again with lighting its something that I was forever tweaking and modifying. Post-processing really helped to bring out the warmth in the room, enhancing the natural sunlight coming through.
+<p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_7.jpg" data-lightbox="the_room_set" data-title="Post processing pass"><img class="example-image" src="img/The_Room/theroom_7.jpg" alt="" height="245"/></a>
 Post processing pass
 </i></p>
 
-<p style="text-align: center;"><i>
+<p><br />
+The final part was adding in particles. In this case, I added a dust particle system to help improve the homely feel to space - help make the room not feel so sterile.
+<p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_8.jpg" data-lightbox="the_room_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Room/theroom_8.jpg" alt="" height="245"/></a>
 Final scene view 1
 </i></p>
 
-<p style="text-align: center;"><i>
+<p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_9.jpg" data-lightbox="the_room_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Room/theroom_9.jpg" alt="" height="245"/></a>
 Final scene view 2
 </i></p>
+
+<p><br />
+Overall I am happy with the way the project came together. I learnt a lot about the process of building up a scene and each of the elements required at each step. I will admit the lighting and post-processing still needs work. I was struggling a bit with lighting strength and intensity. Where it is looking like it has too much contrast in areas.
+<p><br />
