@@ -8,8 +8,11 @@ date:   "8th September 2018"
 permalink: "The Room"
 ---
 <p style="font-size:100%;">
-My first Unreal Engine 4 project, an architectural visualization of a living room space in a high rise apartment building. My goals for this project was getting into grips with using Unreal Engine 4 and exploring creating environments. I created this project as part of a Udemy Course, instructed by Christopher Murphy. Scene assets are a mixture of course assets and Epic Games assets.
+My first Unreal 4 project, an architectural visualization of a living room space in a high rise apartment building. My goals for this project was getting into grips with using Unreal Engine 4 and exploring creating environments.
 </p>
+<p>
+This project was my adaptation of the first segment in the Udemy course by Christopher Murphy. The scene consists of a mixture of course assets and Epic Games assets.
+</p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_8.jpg" data-lightbox="the_room_set" data-title="Final scene preview"><img class="example-image" src="img/The_Room/theroom_8.jpg" alt="" height="245"/></a>
@@ -86,7 +89,7 @@ The final part was adding in particles. In this case, I added a dust particle sy
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_8.jpg" data-lightbox="the_room_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Room/theroom_8.jpg" alt="" height="245"/></a>
 Final scene view 1
-</i></p>
+</i></p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/The_Room/theroom_9.jpg" data-lightbox="the_room_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Room/theroom_9.jpg" alt="" height="245"/></a>
@@ -94,5 +97,6 @@ Final scene view 2
 </i></p>
 
 <p><br />
-Overall I am happy with the way the project came together. I learnt a lot about the process of building up a scene and each of the elements required at each step. I will admit the lighting and post-processing still needs work. I was struggling a bit with lighting strength and intensity. Where it is looking like it has too much contrast in areas.
+<b>Conclusion and Critique</b><br /><br />
+Overall I am happy with the way the project came together. I learnt a lot about the process of building up a scene and each of the elements required at each step. I will admit the lighting and post-processing still needs work. I was struggling a bit with lighting strength and intensity. Where it is looking like it has too much contrast in areas. Some of the assets I overused in places, making the design feel less desirable - could combat this by using more assets or creating variations of existing assets. 
 <p><br />

@@ -1,6 +1,6 @@
 ---
 title:  "Castle Arena"
-subtitle: "Video Game"
+subtitle: "Video Game Concept"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
 image: "img/Castle_Arena/Castle_Arena_post_icon_2.jpg"

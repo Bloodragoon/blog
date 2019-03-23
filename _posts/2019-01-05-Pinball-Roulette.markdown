@@ -104,26 +104,20 @@ Gameplay Screenshot 3
 </i></p>
 
 <p>
-<b>Conclusion</b><br /><br />
-Pinball Roulette is more pinball than roulette. I am happy with the completion of the project and the overall design. My goal was not to make the most engaging pinball game ever or the prettiest. It was to complete a full video game and to learn more about the full game development process.
-</p>
-
-<p>
+<b>Critique</b><br /><br />
 I personally think I implemented some really nice mechanics and design elements. However, the game is definitely not without its flaws. I had the right idea about some of the concepts I implemented but could have been executed better or explored in different ways.
 </p>
-
 <p>
 The roulette wheel is an example of this, as the wheel itself is somewhat interesting, its outcomes can be lacklustre. Getting the centre stopper multiple times in a row is pretty uninteresting. Adding in more outcomes with more interesting or gameplay impacting events would help a lot. Maybe even add in new game elements which the player has control over that impact on the roulette wheel itself.
 </p>
-
 <p>
 The table could have had more interesting objects added to it as the table feels a bit too bare in places. The core gameplay is not really satisfying as there are still moments of uninteresting moments where the player is not engaged in gameplay. This is due to table design and there not being many channels/paths or interesting sub-goals within the table. Adding reasons for the player to direct the ball in particular locations at a given time would help introduce skill and timing to the game.
+<p>
 </p>
+Visually some of the decals designs look out of place with each other. Some use thicker lines than others, some being curvy in nature distracts from the straight lines. This was partly due to the limitation in my ability to design decals that matched alongside the decals in the asset pack.
+</p><br />
 
 <p>
-Visually some of the decals designs look out of place with each other. Some use thicker lines than others, some being curvy in nature distracts from the straight lines. This was a limitation of my ability to design decals and something good to keep in mind, keep consistency and cohesion of visual design.
-</p>
-
-<p>
-Overall Pinball Roulette is a simple easy game and was a great project that taught me about the process for making a game from start to finish.
+<b>Conclusion</b><br /><br />
+I am happy with the completion of the project and the overall design (granted its more pinball that roulette). My goal was not to make the most engaging pinball game ever or the prettiest. It was to complete a full video game and to learn more about the full game development process. I feel like I completed that goal successfully as well as having a lot of fun along the way.
 </p>

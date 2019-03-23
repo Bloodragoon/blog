@@ -108,5 +108,6 @@ Final scene view 2
 </i></p>
 
 <p><br />
+<b>Conclusion and Critique</b><br /><br />
 The project started out a bit rough with some learning difficulties, where it really came together in the end. I am not sure how appropriate it would be as a scene in a video game (performance wise and such), where it is a great start in developing my skills. The overall composition I like, individually some components could be improved. As a whole, I really liked how this project turned out, especially the scenes atmosphere.
 </p><br />
