@@ -12,7 +12,7 @@ permalink: "Tether"
 My University research project was exploring the idea of making the lighting in a video game be the core gameplay mechanic. Tether is the name of the game I created as a result of this research.
 </p>
 <p>
-This post is a work in progress, more details to come.
+This post is a work in progress, more details to come!
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
