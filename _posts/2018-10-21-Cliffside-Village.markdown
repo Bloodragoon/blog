@@ -1,6 +1,7 @@
 ---
 title:  "Cliffside Village"
 subtitle: "Game Environment"
+subsubtitle: "Unreal Engine 4"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
 image: "img/Cliffside_Village/Cliffside_Village_post_icon_2.jpg"
@@ -16,7 +17,7 @@ My goals for this project was to try to expand my experience using Unreal Engine
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_5.jpg" data-lightbox="the_cliffside_village_set" data-title="Final Preview"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_5.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_5.jpg" data-lightbox="the_cliffside_village_set" data-title="Final Preview"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_5.jpg" alt="" width="100%"/></a>
 Final Preview
 </i></p>
 
@@ -28,7 +29,7 @@ I began with the cliff size and positioning. I had ideas of a series of cliffs b
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_1.jpg" data-lightbox="the_cliffside_village_set" data-title="Defining the workspace"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_1.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_1.jpg" data-lightbox="the_cliffside_village_set" data-title="Defining the workspace"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_1.jpg" alt="" width="100%"/></a>
 Defining the workspace
 </i></p>
 
@@ -43,7 +44,7 @@ It was at this stage that I found the scene becoming somewhat overwhelming. This
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_2.jpg" data-lightbox="the_cliffside_village_set" data-title="Fleshing out the scene"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_2.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_2.jpg" data-lightbox="the_cliffside_village_set" data-title="Fleshing out the scene"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_2.jpg" alt="" width="100%"/></a>
 Fleshing out the scene
 </i></p>
 
@@ -58,7 +59,7 @@ The scene was looking really good at this point, where I think the layers from t
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_3.jpg" data-lightbox="the_cliffside_village_set" data-title="Final static mesh scene"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_3.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_3.jpg" data-lightbox="the_cliffside_village_set" data-title="Final static mesh scene"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_3.jpg" alt="" width="100%"/></a>
 Final static mesh scene
 </i></p>
 
@@ -73,27 +74,27 @@ I adjusted some of the hues and saturation levels in order to remove any warm to
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_4.jpg" data-lightbox="the_cliffside_village_set" data-title="Final lighting and post processing overview"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_4.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_4.jpg" data-lightbox="the_cliffside_village_set" data-title="Final lighting and post processing overview"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_4.jpg" alt="" width="100%"/></a>
 Final lighting and post processing overview
 </i></p>
 <br />
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_5.jpg" data-lightbox="the_cliffside_village_set" data-title="Final scene view 1"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_5.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_5.jpg" data-lightbox="the_cliffside_village_set" data-title="Final scene view 1"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_5.jpg" alt="" width="100%"/></a>
 Final scene view 1
 </i></p>
 <br />
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_6.jpg" data-lightbox="the_cliffside_village_set" data-title="Final scene view 2"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_6.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_6.jpg" data-lightbox="the_cliffside_village_set" data-title="Final scene view 2"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_6.jpg" alt="" width="100%"/></a>
 Final scene view 2
 </i></p>
 <br />
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_7.jpg" data-lightbox="the_cliffside_village_set" data-title="Final scene view 3"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_7.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_7.jpg" data-lightbox="the_cliffside_village_set" data-title="Final scene view 3"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_7.jpg" alt="" width="100%"/></a>
 Final scene view 3
 </i></p>
 <br />
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_8.jpg" data-lightbox="the_cliffside_village_set" data-title="Final scene view 4"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_8.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Cliffside_Village/Cliffside_Village_8.jpg" data-lightbox="the_cliffside_village_set" data-title="Final scene view 4"><img class="example-image" src="img/Cliffside_Village/Cliffside_Village_8.jpg" alt="" width="100%"/></a>
 Final scene view 4
 </i></p>
 

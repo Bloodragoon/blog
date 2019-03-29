@@ -1,6 +1,7 @@
 ---
 title:  "Pinball Roulette"
 subtitle: "Video Game"
+subsubtitle: "Unreal Engine 4, Blueprint"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
 image: "img/Pinball_Roulette/Pinball_Roulette_Post_Icon_2.jpg"
@@ -29,7 +30,7 @@ Check out and play the game for free at:
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="https://vimeo.com/309670547"><img class="example-image" src="img/Pinball_Roulette/Video_Icon_2.jpg" alt="" height="260"/></a>
+<a class="example-image-link" href="https://vimeo.com/309670547" target="_blank_"><img class="example-image" src="img/Pinball_Roulette/Video_Icon_2.jpg" alt="" width="100%"/></a>
 Gameplay Trailer
 </i></p>
 
@@ -39,7 +40,7 @@ The control scheme consists of using Left and Right Ctrl keys for operating the 
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Pinball_Roulette/Pinball_Roulette_Screenshot4.jpg" data-lightbox="pinball_site" data-title="Main Menu"><img class="example-image" src="img/Pinball_Roulette/Pinball_Roulette_Screenshot4.jpg" alt="" height="260"/></a>
+<a class="example-image-link" href="img/Pinball_Roulette/Pinball_Roulette_Screenshot4.jpg" data-lightbox="pinball_site" data-title="Main Menu"><img class="example-image" src="img/Pinball_Roulette/Pinball_Roulette_Screenshot4.jpg" alt="" width="100%"/></a>
 Main Menu
 </i></p>
 
@@ -60,7 +61,7 @@ Lights and neons are used to supplement additional information to the player. In
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Pinball_Roulette/Pinball_Roulette_Screenshot1.jpg" data-lightbox="pinball_site" data-title="Gameplay Screenshot 1"><img class="example-image" src="img/Pinball_Roulette/Pinball_Roulette_Screenshot1.jpg" alt="" height="260"/></a>
+<a class="example-image-link" href="img/Pinball_Roulette/Pinball_Roulette_Screenshot1.jpg" data-lightbox="pinball_site" data-title="Gameplay Screenshot 1"><img class="example-image" src="img/Pinball_Roulette/Pinball_Roulette_Screenshot1.jpg" alt="" width="100%"/></a>
 Gameplay Screenshot 1
 </i></p>
 
@@ -77,7 +78,7 @@ All the objects in the table are designed to add gameplay in some shape. The mos
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Pinball_Roulette/Pinball_Roulette_Screenshot2.jpg" data-lightbox="pinball_site" data-title="Gameplay Screenshot 2"><img class="example-image" src="img/Pinball_Roulette/Pinball_Roulette_Screenshot2.jpg" alt="" height="260"/></a>
+<a class="example-image-link" href="img/Pinball_Roulette/Pinball_Roulette_Screenshot2.jpg" data-lightbox="pinball_site" data-title="Gameplay Screenshot 2"><img class="example-image" src="img/Pinball_Roulette/Pinball_Roulette_Screenshot2.jpg" alt="" width="100%"/></a>
 Gameplay Screenshot 2
 </i></p>
 
@@ -99,7 +100,7 @@ Other smaller examples include the adding in a small smoke particle system to th
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Pinball_Roulette/Pinball_Roulette_Screenshot3.jpg" data-lightbox="pinball_site" data-title="Gameplay Screenshot 3"><img class="example-image" src="img/Pinball_Roulette/Pinball_Roulette_Screenshot3.jpg" alt="" height="260"/></a>
+<a class="example-image-link" href="img/Pinball_Roulette/Pinball_Roulette_Screenshot3.jpg" data-lightbox="pinball_site" data-title="Gameplay Screenshot 3"><img class="example-image" src="img/Pinball_Roulette/Pinball_Roulette_Screenshot3.jpg" alt="" width="100%"/></a>
 Gameplay Screenshot 3
 </i></p>
 

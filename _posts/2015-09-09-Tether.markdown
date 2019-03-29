@@ -1,0 +1,141 @@
+---
+title:  "Tether"
+subtitle: "University Research Project"
+subsubtitle: "Unity, C#, HLSL"
+author: "Stuart Wilson"
+avatar: "img/authors/author.png"
+image: "img/Tether/Tether_Post_Icon.jpg"
+date:   "9th October 2015"
+permalink: "Tether"
+---
+<p style="font-size:100%;">
+My University research project was exploring the idea of making the lighting in a video game be the core gameplay mechanic. Tether is the name of the game I created as a result of this research.
+</p>
+<p>
+This post is a work in progress, more details to come.
+</p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327366789" target="_blank_" ><img class="example-image" src="img/Tether/Video/Tether - Final Gameplay Video Icon.jpg" alt="" width="100%"/></a>
+Final Gameplay Trailer
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Final Gameplay 1.PNG" data-lightbox="Tether_Set" data-title="Final Gameplay Preview 1"><img class="example-image" src="img/Tether/Tether - Final Gameplay 1.PNG" alt="" width="100%"/></a>
+Final Gameplay Preview 1
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Final Gameplay 2.PNG" data-lightbox="Tether_Set" data-title="Final Gameplay Preview 2"><img class="example-image" src="img/Tether/Tether - Final Gameplay 2.PNG" alt="" width="100%"/></a>
+Final Gameplay Preview 2
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 1.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 1"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 1.PNG" alt="" width="100%"/></a>
+Light Mechanic Testing 1
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 2.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 2"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 2.PNG" alt="" width="100%"/></a>
+Light Mechanic Testing 2
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 3.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 3"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 3.PNG" alt="" width="100%"/></a>
+Light Mechanic Testing 3
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 4.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 4"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 4.PNG" alt="" width="100%"/></a>
+Light Mechanic Testing 4
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Shader Testing 1.png" data-lightbox="Tether_Set" data-title="Shader Testing 1"><img class="example-image" src="img/Tether/Tether - Shader Testing 1.png" alt="" width="100%"/></a>
+Shader Testing 1
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Shader Testing 2.png" data-lightbox="Tether_Set" data-title="Shader Testing 2"><img class="example-image" src="img/Tether/Tether - Shader Testing 2.png" alt="" width="100%"/></a>
+Shader Testing 2
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Shader Testing 3.png" data-lightbox="Tether_Set" data-title="Shader Testing 3"><img class="example-image" src="img/Tether/Tether - Shader Testing 3.png" alt="" width="100%"/></a>
+Shader Testing 3
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 1.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 1"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 1.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 1
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 2.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 2"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 2.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 2
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 3.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 3"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 3.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 3
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 4.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 4"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 4.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 4
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 5.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 5"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 5.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 5
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 6.png" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 6"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 6.png" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 6
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 7.png" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 7"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 7.png" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 7
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Alpha Gameplay.PNG" data-lightbox="Tether_Set" data-title="Tether Alpha Gameplay Preview"><img class="example-image" src="img/Tether/Tether - Alpha Gameplay.PNG" alt="" width="100%"/></a>
+Tether Alpha Gameplay Preview
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327366789" target="_blank_" ><img class="example-image" src="img/Tether/Video/Tether - Final Gameplay Video Icon.jpg" alt="" width="100%"/></a>
+Final Gameplay Trailer
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327366968" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 1 Video Icon.jpg" alt="" width="100%"/></a>
+Light Mechanic Testing 1
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327367049" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 2 Video Icon.jpg" alt="" width="100%"/></a>
+Light Mechanic Testing 2
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327367133" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 3 Video Icon.jpg" alt="" width="100%"/></a>
+Light Mechanic Testing 3
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327367224" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 4 Video Icon.jpg" alt="" width="100%"/></a>
+Tether Alpha Gameplay
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327367295" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Shader Testing 1 Video Icon.jpg" alt="" width="100%"/></a>
+Shader Testing 1
+</i></p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327367308" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Shader Testing 2 Video Icon.jpg" alt="" width="100%"/></a>
+Shader Testing 2
+</i></p><br />

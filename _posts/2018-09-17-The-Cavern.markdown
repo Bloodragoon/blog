@@ -1,6 +1,7 @@
 ---
 title:  "The Cavern"
 subtitle: "Game Environment"
+subsubtitle: "Unreal Engine 4"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
 image: "img/The_Cavern/thecavern_post_icon_2.jpg"
@@ -15,7 +16,7 @@ Browsing through the Epic Marketplace for assets, I came across an asset pack wh
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_9.jpg" data-lightbox="the_cavern_set" data-title="Final Preview"><img class="example-image" src="img/The_Cavern/thecavern_9.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_9.jpg" data-lightbox="the_cavern_set" data-title="Final Preview"><img class="example-image" src="img/The_Cavern/thecavern_9.jpg" alt="" width="100%"/></a>
 Final Preview
 </i></p>
 
@@ -24,7 +25,7 @@ Like with my previous project, I started with scoping out the design space and d
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_1.jpg" data-lightbox="the_cavern_set" data-title="Defining the workspace"><img class="example-image" src="img/The_Cavern/thecavern_1.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_1.jpg" data-lightbox="the_cavern_set" data-title="Defining the workspace"><img class="example-image" src="img/The_Cavern/thecavern_1.jpg" alt="" width="100%"/></a>
 Defining the workspace
 </i></p>
 
@@ -33,7 +34,7 @@ I knew I wanted this project to be larger than the last, but not too big - I am 
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_2.jpg" data-lightbox="the_cavern_set" data-title="Re-defining the workspace"><img class="example-image" src="img/The_Cavern/thecavern_2.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_2.jpg" data-lightbox="the_cavern_set" data-title="Re-defining the workspace"><img class="example-image" src="img/The_Cavern/thecavern_2.jpg" alt="" width="100%"/></a>
 Re-defining the workspace
 </i></p>
 
@@ -42,7 +43,7 @@ With the sizing and proportions being roughly in check I started to explore upon
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_3.jpg" data-lightbox="the_cavern_set" data-title="Initial base scene construction"><img class="example-image" src="img/The_Cavern/thecavern_3.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_3.jpg" data-lightbox="the_cavern_set" data-title="Initial base scene construction"><img class="example-image" src="img/The_Cavern/thecavern_3.jpg" alt="" width="100%"/></a>
 Initial base scene construction
 </i></p>
 
@@ -51,7 +52,7 @@ I really liked the direction that the scene was taking, however, I quickly found
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_4.jpg" data-lightbox="the_cavern_set" data-title="More base construction"><img class="example-image" src="img/The_Cavern/thecavern_4.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_4.jpg" data-lightbox="the_cavern_set" data-title="More base construction"><img class="example-image" src="img/The_Cavern/thecavern_4.jpg" alt="" width="100%"/></a>
 More base construction
 </i></p>
 
@@ -60,7 +61,7 @@ I reapproached the design by using entirely static meshes. This worked out extre
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_5.jpg" data-lightbox="the_cavern_set" data-title="Scene reconstruction with static meshes"><img class="example-image" src="img/The_Cavern/thecavern_5.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_5.jpg" data-lightbox="the_cavern_set" data-title="Scene reconstruction with static meshes"><img class="example-image" src="img/The_Cavern/thecavern_5.jpg" alt="" width="100%"/></a>
 Scene reconstruction with static meshes
 </i></p>
 
@@ -69,7 +70,7 @@ The scene was really starting to come together at the point, where I was really 
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_6.jpg" data-lightbox="the_cavern_set" data-title="Final static mesh detailing"><img class="example-image" src="img/The_Cavern/thecavern_6.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_6.jpg" data-lightbox="the_cavern_set" data-title="Final static mesh detailing"><img class="example-image" src="img/The_Cavern/thecavern_6.jpg" alt="" width="100%"/></a>
 Final static mesh detailing
 </i></p>
 
@@ -78,7 +79,7 @@ Next came lighting. Throughout the project, to this point, I had been playing ar
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_7.jpg" data-lightbox="the_cavern_set" data-title="Completed lighting pass"><img class="example-image" src="img/The_Cavern/thecavern_7.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_7.jpg" data-lightbox="the_cavern_set" data-title="Completed lighting pass"><img class="example-image" src="img/The_Cavern/thecavern_7.jpg" alt="" width="100%"/></a>
 Completed lighting pass
 </i></p>
 
@@ -87,7 +88,7 @@ Though I know I was not fully comfortable with the lighting, I knew it was somet
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_8.jpg" data-lightbox="the_cavern_set" data-title="Post processing pass"><img class="example-image" src="img/The_Cavern/thecavern_8.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_8.jpg" data-lightbox="the_cavern_set" data-title="Post processing pass"><img class="example-image" src="img/The_Cavern/thecavern_8.jpg" alt="" width="100%"/></a>
 Post processing pass
 </i></p>
 
@@ -96,14 +97,14 @@ Lastly was particles and effects. I did however cheat and do some of this earlie
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_9.jpg" data-lightbox="the_cavern_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Cavern/thecavern_9.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_9.jpg" data-lightbox="the_cavern_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Cavern/thecavern_9.jpg" alt="" width="100%"/></a>
 Final scene view 1
 </i></p>
 
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Cavern/thecavern_10.jpg" data-lightbox="the_cavern_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Cavern/thecavern_10.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/The_Cavern/thecavern_10.jpg" data-lightbox="the_cavern_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Cavern/thecavern_10.jpg" alt="" width="100%"/></a>
 Final scene view 2
 </i></p>
 

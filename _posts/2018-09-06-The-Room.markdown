@@ -1,6 +1,7 @@
 ---
 title:  "The Room"
 subtitle: "Architecture Visualization"
+subsubtitle: "Unreal Engine 4"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
 image: "img/The_Room/theroom_post_icon_2.jpg"
@@ -15,7 +16,7 @@ This project was my adaptation of the first segment in the Udemy course by Chris
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_8.jpg" data-lightbox="the_room_set" data-title="Final scene preview"><img class="example-image" src="img/The_Room/theroom_8.jpg" alt="" height="245"/></a>
+<a class="example-image-link" href="img/The_Room/theroom_8.jpg" data-lightbox="the_room_set" data-title="Final scene preview"><img class="example-image" src="img/The_Room/theroom_8.jpg" alt="" width="100%"/></a>
 Final scene preview
 </i></p>
 
@@ -24,7 +25,7 @@ I started out by defining the workspace for the scene. To do this I used BSP geo
 <p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_1.jpg" data-lightbox="the_room_set" data-title="Defining the workspace"><img class="example-image" src="img/The_Room/theroom_1.jpg" alt="" height="245"/></a>
+<a class="example-image-link" href="img/The_Room/theroom_1.jpg" data-lightbox="the_room_set" data-title="Defining the workspace"><img class="example-image" src="img/The_Room/theroom_1.jpg" alt="" width="100%"/></a>
 Defining the workspace
 </i></p>
 
@@ -33,7 +34,7 @@ At this point, it was clear I needed to start re-defining the room size to bette
 <p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_2.jpg" data-lightbox="the_room_set" data-title="Re-defining the workspace"><img class="example-image" src="img/The_Room/theroom_2.jpg" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_2.jpg" data-lightbox="the_room_set" data-title="Re-defining the workspace"><img class="example-image" src="img/The_Room/theroom_2.jpg" alt="" width="100%" /></a>
 Re-defining the workspace
 </i></p>
 
@@ -42,7 +43,7 @@ Now that the room was looking in better shape I began filling out the room with 
 <p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_3.jpg" data-lightbox="the_room_set" data-title="Fleshing out base static mesh details"><img class="example-image" src="img/The_Room/theroom_3.jpg" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_3.jpg" data-lightbox="the_room_set" data-title="Fleshing out base static mesh details"><img class="example-image" src="img/The_Room/theroom_3.jpg" alt="" width="100%" /></a>
 Fleshing out base static mesh details
 </i></p>
 
@@ -51,7 +52,7 @@ I was finding the design was looking and not feeling like a home, so I added in 
 <p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_4.jpg" data-lightbox="the_room_set" data-title="Filling in more scene details"><img class="example-image" src="img/The_Room/theroom_4.jpg" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_4.jpg" data-lightbox="the_room_set" data-title="Filling in more scene details"><img class="example-image" src="img/The_Room/theroom_4.jpg" alt="" width="100%" /></a>
 Filling in more scene details
 </i></p>
 
@@ -60,7 +61,7 @@ Something was missing that made the room still feel too clean. I decided to add 
 <p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_5.jpg" data-lightbox="the_room_set" data-title="Final pre-lighting scene view"><img class="example-image" src="img/The_Room/theroom_5.jpg" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_5.jpg" data-lightbox="the_room_set" data-title="Final pre-lighting scene view"><img class="example-image" src="img/The_Room/theroom_5.jpg" alt="" width="100%" /></a>
 Final pre-lighting scene view
 </i></p>
 
@@ -69,7 +70,7 @@ Next was lighting, where I could finally remove temporary construction lights in
 <p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_6.jpg" data-lightbox="the_room_set" data-title="First detailed lighting pass"><img class="example-image" src="img/The_Room/theroom_6.jpg" alt="" height="245" /></a>
+<a class="example-image-link" href="img/The_Room/theroom_6.jpg" data-lightbox="the_room_set" data-title="First detailed lighting pass"><img class="example-image" src="img/The_Room/theroom_6.jpg" alt="" width="100%" /></a>
 First detailed lighting pass
 </i></p>
 
@@ -78,7 +79,7 @@ Following lighting was post-processing. To me, this part feels like 'glueing' al
 <p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_7.jpg" data-lightbox="the_room_set" data-title="Post processing pass"><img class="example-image" src="img/The_Room/theroom_7.jpg" alt="" height="245"/></a>
+<a class="example-image-link" href="img/The_Room/theroom_7.jpg" data-lightbox="the_room_set" data-title="Post processing pass"><img class="example-image" src="img/The_Room/theroom_7.jpg" alt="" width="100%"/></a>
 Post processing pass
 </i></p>
 
@@ -87,12 +88,12 @@ The final part was adding in particles. In this case, I added a dust particle sy
 <p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_8.jpg" data-lightbox="the_room_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Room/theroom_8.jpg" alt="" height="245"/></a>
+<a class="example-image-link" href="img/The_Room/theroom_8.jpg" data-lightbox="the_room_set" data-title="Final scene view 1"><img class="example-image" src="img/The_Room/theroom_8.jpg" alt="" width="100%"/></a>
 Final scene view 1
 </i></p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/The_Room/theroom_9.jpg" data-lightbox="the_room_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Room/theroom_9.jpg" alt="" height="245"/></a>
+<a class="example-image-link" href="img/The_Room/theroom_9.jpg" data-lightbox="the_room_set" data-title="Final scene view 2"><img class="example-image" src="img/The_Room/theroom_9.jpg" alt="" width="100%"/></a>
 Final scene view 2
 </i></p>
 

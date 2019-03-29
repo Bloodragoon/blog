@@ -1,6 +1,7 @@
 ---
 title:  "Castle Arena"
 subtitle: "Video Game Concept"
+subsubtitle: "Unreal Engine 4, Blueprint"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
 image: "img/Castle_Arena/Castle_Arena_post_icon_2.jpg"
@@ -22,7 +23,7 @@ This project was my adaptation of the last segment in the Udemy course by Christ
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="https://vimeo.com/318697115"><img class="example-image" src="img/Castle_Arena/Video_Icon_2.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="https://vimeo.com/318697115" target="_blank_"><img class="example-image" src="img/Castle_Arena/Video_Icon_2.jpg" alt="" width="100%"/></a>
 Gameplay Trailer
 </i></p>
 
@@ -32,7 +33,7 @@ Player movement is based on the AWSD system. Left click for melee combat swings,
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_1.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 1"><img class="example-image" src="img/Castle_Arena/Castle_Arena_1.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_1.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 1"><img class="example-image" src="img/Castle_Arena/Castle_Arena_1.jpg" alt="" width="100%"/></a>
 Final scene view 1
 </i></p>
 
@@ -54,7 +55,7 @@ Health pickups are available around the map which will instantly heal an amount 
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_2.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 2"><img class="example-image" src="img/Castle_Arena/Castle_Arena_2.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_2.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 2"><img class="example-image" src="img/Castle_Arena/Castle_Arena_2.jpg" alt="" width="100%"/></a>
 Final scene view 2
 </i></p>
 
@@ -73,7 +74,7 @@ From here, it steps up a lot with landscape texturing. Some of the elements of t
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_3.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 3"><img class="example-image" src="img/Castle_Arena/Castle_Arena_3.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_3.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 3"><img class="example-image" src="img/Castle_Arena/Castle_Arena_3.jpg" alt="" width="100%"/></a>
 Final scene view 3
 </i></p>
 
@@ -94,7 +95,7 @@ Smaller texture tiling at closer distances to the camera (giving more detail), a
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_4.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 4"><img class="example-image" src="img/Castle_Arena/Castle_Arena_4.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_4.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 4"><img class="example-image" src="img/Castle_Arena/Castle_Arena_4.jpg" alt="" width="100%"/></a>
 Final scene view 4
 </i></p>
 
@@ -112,7 +113,7 @@ It is very easy to decrease the performance of a build with excessive foliage us
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_5.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 5"><img class="example-image" src="img/Castle_Arena/Castle_Arena_5.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_5.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 5"><img class="example-image" src="img/Castle_Arena/Castle_Arena_5.jpg" alt="" width="100%"/></a>
 Final scene view 5
 </i></p>
 
@@ -131,7 +132,7 @@ As a result, I put a lot of effort into ambient occlusion to help make clearer d
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_6.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 6"><img class="example-image" src="img/Castle_Arena/Castle_Arena_6.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_6.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 6"><img class="example-image" src="img/Castle_Arena/Castle_Arena_6.jpg" alt="" width="100%"/></a>
 Final scene view 6
 </i></p>
 
@@ -158,7 +159,7 @@ The castle design does not really make any sense. Some of the wall structures do
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_7.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 7"><img class="example-image" src="img/Castle_Arena/Castle_Arena_7.jpg" alt="" height="370"/></a>
+<a class="example-image-link" href="img/Castle_Arena/Castle_Arena_7.jpg" data-lightbox="the_Castle_Arena_set" data-title="Final scene view 7"><img class="example-image" src="img/Castle_Arena/Castle_Arena_7.jpg" alt="" width="100%"/></a>
 Final scene view 7
 </i></p>
 

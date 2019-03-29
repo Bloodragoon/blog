@@ -1,6 +1,7 @@
 ---
 title:  "Cats and Rabbits"
-subtitle: "C++ Console Command Video Game"
+subtitle: "Console Command Video Game"
+subsubtitle: "Visual Studio, C++"
 author: "Stuart Wilson"
 avatar: "img/authors/author.png"
 image: "img/Cats_and_Rabbits/Cats_And_Rabbits_Icon.jpg"
@@ -15,7 +16,7 @@ This project was my adaptation of the first segment in the Udemy course by Ben T
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_1.jpg" data-lightbox="cats_and_rabbits_set" data-title="Start Screen"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_1.jpg" alt="" height="345"/></a>
+<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_1.jpg" data-lightbox="cats_and_rabbits_set" data-title="Start Screen"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_1.jpg" alt="" width="100%"/></a>
 Start Screen
 </i></p>
 
@@ -28,7 +29,7 @@ Cats and Rabbits is an adaptation of the pen and pencil 'Bulls and Cows' puzzle 
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_2.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 1"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_2.jpg" alt="" height="345" /></a>
+<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_2.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 1"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_2.jpg" alt="" width="100%" /></a>
 Gameplay 1
 </i></p>
 
@@ -38,12 +39,12 @@ The game verifies users input in order to help the user submitting invalid guess
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_3.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 2"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_3.jpg" alt="" height="345" /></a>
+<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_3.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 2"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_3.jpg" alt="" width="100%" /></a>
 Gameplay 2
 </i></p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_4.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 3"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_4.jpg" alt="" height="345" /></a>
+<a class="example-image-link" href="img/Cats_and_Rabbits/Cats_And_Rabbits_4.jpg" data-lightbox="cats_and_rabbits_set" data-title="Gameplay 3"><img class="example-image" src="img/Cats_and_Rabbits/Cats_And_Rabbits_4.jpg" alt="" width="100%" /></a>
 Gameplay 3
 </i></p>
 
