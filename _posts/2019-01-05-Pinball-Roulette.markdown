@@ -9,7 +9,6 @@ date:   7th January 2019
 permalink: "Pinball_Roulette"
 ---
 
-
 <p style="font-size:100%;">
 My first complete game in Unreal Engine 4, classic arcade pinball with a small roulette twist. Every thirty seconds the centre wheel lands on a random coloured triangle. Red results in inverted flippers, yellow provides a helping paddle centre stopper and green pops two fresh new balls into play.
 </p>
@@ -21,16 +20,12 @@ This project was my adaptation of the Pinball project as part of the Udemy cours
 </p>
 
 Check out and play the game for free at:
-<br />
-<br />
-<i><b>
-[bloodragoon.itch.io/pinballroulette](https://bloodragoon.itch.io/pinballroulette)
-</b></i>
-<br />
-<br />
+<br /><br /><i><b>
+<a class="linky" href="https://bloodragoon.itch.io/pinballroulette" target="_blank_">https://bloodragoon.itch.io/pinballroulette</a>
+</b></i><br /><br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="https://vimeo.com/309670547" target="_blank_"><img class="example-image" src="img/Pinball_Roulette/Video_Icon_2.jpg" alt="" width="100%"/></a>
+<a class="example-image-link" href="https://vimeo.com/309670547" target="_blank_"><img class="example-image" src="img/Pinball_Roulette/Video_Icon.jpg" alt="" width="100%"/></a>
 Gameplay Trailer
 </i></p>
 

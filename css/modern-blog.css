@@ -241,6 +241,13 @@ body.body--hidden .header {
 	transition: opacity 300ms ease-in-out;
 }
 
+a.linky {
+	text-decoration: underline;
+	text-decoration-color: #4f4c4c;
+	font-style: italic;
+	color: #0000ff;
+}
+
 a {
 	text-decoration: none;
 	color: #de6551;
@@ -257,6 +264,13 @@ a:focus {
 }
 
 .body a {
+	color: #4f4c4c;
+}
+
+.body a:hover{
+		color: #111111;
+}
+.body a.linky {
 	color: #4f4c4c;
 }
 

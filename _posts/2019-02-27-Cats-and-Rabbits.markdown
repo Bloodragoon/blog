@@ -8,6 +8,7 @@ image: "img/Cats_and_Rabbits/Cats_And_Rabbits_Icon.jpg"
 date:   27th February 2019
 permalink: "Cats and Rabbits"
 ---
+
 <p style="font-size:100%;">
 Cats and Rabbits, my first video game project written in C++. A fun standalone project with the goals of learning how to program in C++. Along with learning C++ I also wanted to learn more about understanding design insights and principals of console command video games.
 </p>

@@ -23,7 +23,7 @@ This project was my adaptation of the last segment in the Udemy course by Christ
 <br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="https://vimeo.com/318697115" target="_blank_"><img class="example-image" src="img/Castle_Arena/Video_Icon_2.jpg" alt="" width="100%"/></a>
+<a class="example-image-link" href="https://vimeo.com/318697115" target="_blank_"><img class="example-image" src="img/Castle_Arena/Video_Icon.jpg" alt="" width="100%"/></a>
 Gameplay Trailer
 </i></p>
 

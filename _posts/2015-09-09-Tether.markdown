@@ -8,134 +8,288 @@ image: "img/Tether/Tether_Post_Icon.jpg"
 date:   "9th October 2015"
 permalink: "Tether"
 ---
+
 <p style="font-size:100%;">
-My University research project was exploring the idea of making the lighting in a video game be the core gameplay mechanic. Tether is the name of the game I created as a result of this research.
+Tether is the video game I created as a result of my University honors research project. My research project was exploring creating Lighting as a Core Gameplay Mechanic in a video game. This project was completed in the Unity Engine using C# and HLSL.
 </p>
+
 <p>
-This post is a work in progress, more details to come!
+I will keep this dev blog post brief to let the project speak for itself, where I will primarily show off the final product and a high level overview of the process I went through to create it.
+</p>
+
+<p>
+You can download the full research report bellow, which goes through and explains my entire process in full detail from start to finish.
+</p>
+
+<p><i><b>
+<a class="linky" href="https://www.dropbox.com/s/xqh9cllprj7swfj/Stuart%20Wilson%20Honours%20Report.pdf?dl=0" target="_blank_">Stuart-Wilson-Research-Report.pdf</a>
+</b></i></p><br />
+
+<p>
+<b>Final Gameplay</b><br /><br />
+Tether is a 1st person puzzle game, where the players goal is to control and navigate a ball through the level and place it into the white wireframed cube. The ball has the only light in the game, where the player can influence movement of the ball by being inside the lights aura.
+<p>
+</p>
+The player can change the colour of the light aura between blue and orange to determine the direction of movement for the ball. Blue attracts and orange repels the ball from the player.
 </p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="https://vimeo.com/327366789" target="_blank_" ><img class="example-image" src="img/Tether/Video/Tether - Final Gameplay Video Icon.jpg" alt="" width="100%"/></a>
 Final Gameplay Trailer
-</i></p><br />
+</i></p>
+
+<p>
+The player can move independently from the ball by being outside the light aura range, this also gives the ability for the player to leave and enter the puzzle area if there exists a path.
+</p>
+<p>
+When a player is in the light aura range they become tethered with the ball, conversely they become de-tethered when outside of the light range.
+</p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/Tether/Tether - Final Gameplay 1.PNG" data-lightbox="Tether_Set" data-title="Final Gameplay Preview 1"><img class="example-image" src="img/Tether/Tether - Final Gameplay 1.PNG" alt="" width="100%"/></a>
 Final Gameplay Preview 1
-</i></p><br />
+</i></p>
+
+<p>
+Objects lit by the ball are turned 'on' and will remember when they have been lit before. All objects in light range will be turned on, but if the player is de-tethered then all the objects that have been previously lit will also get revealed as wireframed outlines.
+</p>
+<p>
+Previously lit objects that are not currently lit when the player is tethered become non-active making them invisible. The concept is for the player to navigate the ball through the puzzle, where they have to be careful as to how they control the light in the game so that they can move independently around the scene.
+</p><br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/Tether/Tether - Final Gameplay 2.PNG" data-lightbox="Tether_Set" data-title="Final Gameplay Preview 2"><img class="example-image" src="img/Tether/Tether - Final Gameplay 2.PNG" alt="" width="100%"/></a>
 Final Gameplay Preview 2
-</i></p><br />
+</i></p>
+
+<p>
+<b>Lighting Experiments</b><br /><br />
+Like all projects, we do not magically create the perfect game from scratch nor is it what we originally envision. So where did I start? Experimenting with lights! The first task was to trial out Unreal Engine 4 and Unity to see which engine would give me the most benefit for completing my research.
+</p>
+
+<p>
+I found Unity to give me the greatest flexibility for modifying lighting behavior in real-time and continued to use Unity for the entire project. Below are some of my very initial experiments figuring out some of the capabilities of lighting in Unity.
+</p>
+<br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 1.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 1"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 1.PNG" alt="" width="100%"/></a>
 Light Mechanic Testing 1
-</i></p><br />
+</i></p>
+
+<p>
+My first idea for creating an interactive lighting mechanic was exploring the idea of replicating a Sonar ('echo-locate') effect with lighting. Instead of waves of sound bouncing around, the idea was to have waves of light project around the envoirment.
+</p>
+<br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 2.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 2"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 2.PNG" alt="" width="100%"/></a>
 Light Mechanic Testing 2
-</i></p><br />
+</i></p>
 
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 3.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 3"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 3.PNG" alt="" width="100%"/></a>
-Light Mechanic Testing 3
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 4.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 4"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 4.PNG" alt="" width="100%"/></a>
-Light Mechanic Testing 4
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Shader Testing 1.png" data-lightbox="Tether_Set" data-title="Shader Testing 1"><img class="example-image" src="img/Tether/Tether - Shader Testing 1.png" alt="" width="100%"/></a>
-Shader Testing 1
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Shader Testing 2.png" data-lightbox="Tether_Set" data-title="Shader Testing 2"><img class="example-image" src="img/Tether/Tether - Shader Testing 2.png" alt="" width="100%"/></a>
-Shader Testing 2
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Shader Testing 3.png" data-lightbox="Tether_Set" data-title="Shader Testing 3"><img class="example-image" src="img/Tether/Tether - Shader Testing 3.png" alt="" width="100%"/></a>
-Shader Testing 3
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 1.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 1"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 1.PNG" alt="" width="100%"/></a>
-Light Mechanic Gameplay Testing 1
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 2.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 2"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 2.PNG" alt="" width="100%"/></a>
-Light Mechanic Gameplay Testing 2
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 3.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 3"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 3.PNG" alt="" width="100%"/></a>
-Light Mechanic Gameplay Testing 3
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 4.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 4"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 4.PNG" alt="" width="100%"/></a>
-Light Mechanic Gameplay Testing 4
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 5.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 5"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 5.PNG" alt="" width="100%"/></a>
-Light Mechanic Gameplay Testing 5
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 6.png" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 6"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 6.png" alt="" width="100%"/></a>
-Light Mechanic Gameplay Testing 6
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 7.png" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 7"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 7.png" alt="" width="100%"/></a>
-Light Mechanic Gameplay Testing 7
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="img/Tether/Tether - Alpha Gameplay.PNG" data-lightbox="Tether_Set" data-title="Tether Alpha Gameplay Preview"><img class="example-image" src="img/Tether/Tether - Alpha Gameplay.PNG" alt="" width="100%"/></a>
-Tether Alpha Gameplay Preview
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="https://vimeo.com/327366789" target="_blank_" ><img class="example-image" src="img/Tether/Video/Tether - Final Gameplay Video Icon.jpg" alt="" width="100%"/></a>
-Final Gameplay Trailer
-</i></p><br />
+<p>
+I did quite like this idea, it did look like it was something I could develop upon. However it had a critical problem that it maxed out maxed out my pc creating the effect. This was largely due to my limited knowledge of the engine the approach I took into creating it. With more tinkering I found it was probably still going to be quite an expensive effect and decided to explore more options.
+</p>
+<br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="https://vimeo.com/327366968" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 1 Video Icon.jpg" alt="" width="100%"/></a>
 Light Mechanic Testing 1
-</i></p><br />
+</i></p>
+
+<p>
+I decided it was probably best to learn more about lighting in Unity which lead me into discovering lighting layers. Light layering in Unity determines how lights interact in the scene.
+</p>
+<br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="https://vimeo.com/327367049" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 2 Video Icon.jpg" alt="" width="100%"/></a>
-Light Mechanic Testing 2
-</i></p><br />
-
-<p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="https://vimeo.com/327367133" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 3 Video Icon.jpg" alt="" width="100%"/></a>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 3.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 3"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 3.PNG" alt="" width="100%"/></a>
 Light Mechanic Testing 3
-</i></p><br />
+</i></p>
+
+<p>
+Scene objects are assigned level layers, and light objects are assigned against those layers. This allows for some really neat lighting 'tricks' upon different objects and lights within a scene.
+</p>
+<br />
 
 <p style="text-align: center; font-size:85%;"><i>
-<a class="example-image-link" href="https://vimeo.com/327367224" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 4 Video Icon.jpg" alt="" width="100%"/></a>
-Tether Alpha Gameplay
-</i></p><br />
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Testing 4.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Testing 4"><img class="example-image" src="img/Tether/Tether - Light Mechanic Testing 4.PNG" alt="" width="100%"/></a>
+Light Mechanic Testing 4
+</i></p>
+
+<p>
+<b>Shader Experiments</b><br /><br />
+Through courses at University and my lighting experiments I came across Shaders. Learning that shaders could impact the effects of lighting in a scene, without actually doing anything with the lights itself. So my next set of experiments were focused upon learning shaders and the capabilities with lighting in Unity.
+</p>
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Shader Testing 1.png" data-lightbox="Tether_Set" data-title="Shader Testing 1"><img class="example-image" src="img/Tether/Tether - Shader Testing 1.png" alt="" width="100%"/></a>
+Shader Testing 1
+</i></p>
+
+<p>
+Through experimentation I came across quite an interesting effect with a shader I created. I managed to create an 'instantly lit' object effect. Where if an object was inside the light range of a lighting object, it would be completely lit - even if just the corner of a cube was just inside the light aura.
+</p>
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Shader Testing 2.png" data-lightbox="Tether_Set" data-title="Shader Testing 2"><img class="example-image" src="img/Tether/Tether - Shader Testing 2.png" alt="" width="100%"/></a>
+Shader Testing 2
+</i></p>
+
+<p>
+This led me into a bunch of new experiments using this shader. Testing out different objects, sizes, positions all relative to a single light source in the scene.
+</p>
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Shader Testing 3.png" data-lightbox="Tether_Set" data-title="Shader Testing 3"><img class="example-image" src="img/Tether/Tether - Shader Testing 3.png" alt="" width="100%"/></a>
+Shader Testing 3
+</i></p>
+
+<p>
+The two videos below best demonstrate the full effect of the shader.
+</p>
+<br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="https://vimeo.com/327367295" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Shader Testing 1 Video Icon.jpg" alt="" width="100%"/></a>
 Shader Testing 1
-</i></p><br />
+</i></p>
+
+<br />
 
 <p style="text-align: center; font-size:85%;"><i>
 <a class="example-image-link" href="https://vimeo.com/327367308" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Shader Testing 2 Video Icon.jpg" alt="" width="100%"/></a>
 Shader Testing 2
-</i></p><br />
+</i></p>
+
+<p>
+<b>Light Gameplay Mechanic Testing</b><br /><br />
+I was really happy with the shader at this stage, so I decided to see if I could come up with some lighting gameplay mechanics using it. The first idea was to create some interesting rooms with various objects for the player to navigate through.
+</p>
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 1.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 1"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 1.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 1
+</i></p>
+
+<p>
+Though the concept was simple, this gameplay had a very profound effect - dark and ominous.
+</p>
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 2.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 2"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 2.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 2
+</i></p>
+
+<p>
+What I was discovering was that despite this being an interesting effect, it did not feel as though the gameplay was being driven by the lighting within the game. Granted it did have a dramatic effect on lighting and atmosphere within the scene.
+</p>
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 3.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 3"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 3.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 3
+</i></p>
+
+<p>
+I wanted to branch out more and re-visit modular walls. Expanding upon the lighting effect with various sized objects. This seemed to have the effect of adding depth and 'pop' to the flat surfaces.
+</p>
+<p>
+I think the best way to describe the effect I ended up creating with these modular walls, was '8-bit lighting'. It looks like the lighting detail was completely removed and instead processed in massive blocks. It was really quite an interesting effect.
+</p>
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 4.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 4"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 4.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 4
+</i></p>
+
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 5.PNG" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 5"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 5.PNG" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 5
+</i></p>
+
+<p>
+Having all these walls, I naturally ended up making rooms and corridors, resulting in my next lighting game play mechanic idea of maze traversal.
+</p>
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 6.png" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 6"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 6.png" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 6
+</i></p>
+
+<p>
+My 8-bit lighting effect however was had some serious issues, primarily being that it was extremely hard the eyes. This was because of several factors.
+</p>
+
+<p>
+Firstly, the lighting felt 'impossible' and therefore really hard for us humans to process mentally. Secondly the effect is really quick and sudden. There can be hundreds of objects popping into and out off the scene instantly which is really overwhelming.
+</p>
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Light Mechanic Gameplay Testing 7.png" data-lightbox="Tether_Set" data-title="Light Mechanic Gameplay Testing 7"><img class="example-image" src="img/Tether/Tether - Light Mechanic Gameplay Testing 7.png" alt="" width="100%"/></a>
+Light Mechanic Gameplay Testing 7
+</i></p>
+
+<p>
+The follow two videos demonstrate the 8-bit lighting effect and the maze gameplay I explored.
+</p>
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327367049" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 2 Video Icon.jpg" alt="" width="100%"/></a>
+Light Mechanic Testing 2
+</i></p>
+
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327367133" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 3 Video Icon.jpg" alt="" width="100%"/></a>
+Light Mechanic Testing 3
+</i></p>
+
+<p>
+<b>Tether Alpha</b><br /><br />
+After failing with the maze gameplay concept and learning how to not make a game using lighting mechanics, I knew it was time I made some bigger changes.
+</p>
+<p>
+I liked the use of the Shader and its instant lighting, I just needed to drop the 8-bit light effect and add in something that was gameplay impactful. That is when the most basic idea came to me in-which inspired the next lighting gameplay mechanic idea.
+</p>
+<p>
+Swap the light from being lit around the player, to being lit around an object which the player interacts with. This idea was all I needed and created the lighting gameplay mechanics I was looking for.
+</p><br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="img/Tether/Tether - Alpha Gameplay.PNG" data-lightbox="Tether_Set" data-title="Tether Alpha Gameplay Preview"><img class="example-image" src="img/Tether/Tether - Alpha Gameplay.PNG" alt="" width="100%"/></a>
+Tether Alpha Gameplay Preview
+</i></p>
+
+<p>
+This lighting gameplay mechanic became the premise for the final game Tether. Once I had the core mechanic down of having the player manipulate the lighting within the game about a ball a lot of the secondary mechanics fall into place.
+</p>
+
+Some of these secondary mechanics include:
+* Dropping wall height down and increasing segment sizes solved visibility and popping issues.
+* Adding a tether line to indicate the players influence on the ball (and thus the lighting in the game).
+* Expanding lighting to Orange and Blue defined gameplay states and visual feedback on the players impact with the ball.
+* Adding in various new objects (cubes) to help influence gameplay.
+* Adding 'object lit memory' for when the object has been lit or not by the light.
+
+<br />
+
+<p style="text-align: center; font-size:85%;"><i>
+<a class="example-image-link" href="https://vimeo.com/327367224" target="_blank_"><img class="example-image" src="img/Tether/Video/Tether - Light Mechanic Testing 4 Video Icon.jpg" alt="" width="100%"/></a>
+Tether Alpha Gameplay
+</i></p>
+
+<p>
+It was clear this concept was the most successful and met the goals I was trying to achieve in my research project. I continued to expand on this game play concept and built into the puzzle game genre. This was the most exciting part of the entire project, finding that big break through, where all the pieces just fell into place afterwards. And it was all due to the testing research that led me to creating these idea.
+</p><br />
