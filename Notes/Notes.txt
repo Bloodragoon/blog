@@ -1,3 +1,16 @@
+Post Image - 1500 x 1000 Pixels
+JPEG format
+Shadow Box is a thrid of the height (333.33 x 1500)
+Shadow Box is 90% transparent
+
+video thumbnails
+1920 x 1080
+Play_Circle in Light Box Image Folder
+80% trans black overlay
+Resize play button to 350 x 350
+
+
+
 Taking Screenshots 1.5 aspect ratio for post icons
   1. Change play window settings to 1500x1000
   2. Play the game.
