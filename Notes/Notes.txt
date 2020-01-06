@@ -19,11 +19,11 @@ Taking Screenshots 1.5 aspect ratio for post icons
 Setting up H keypress for screenshots in-game
   https://chiaroscorner.wordpress.com/2018/02/20/how-to-take-a-high-res-screenshot-in-play-mode-ue4/
 
-Post Images, 70% opacity
-Post Images, black is image height / 3
+--Post Images, 70% opacity
+--Post Images, black is image height / 3
 
-Video Images, 50% opacity
-Video Images, play icon is image height / 4
+--Video Images, 50% opacity
+--Video Images, play icon is image height / 4
 
 Press H
 Execute Console Command
